@@ -10,7 +10,7 @@ https://www.tekqart.com/thread-222735-1-1.html?_dsign=c72d4895
 
 # 插件包中插件
 
-- zdm大佬(2024/06/18更新)：
+- zdm大佬(2024/07/05更新)：
   - ovl-sysmodules
   - Tesla-Menu
   - EdiZon-SE和EdiZon-Overlay
@@ -27,3 +27,4 @@ https://www.tekqart.com/thread-222735-1-1.html?_dsign=c72d4895
 - 2024.6.13 去除一部分插件
 - 2024.6.18 更新ReverseNX-RT, Status Monitor
 - 2024.6.20 sys-patch和sigpatchs正式更换为gba论坛版本
+- 2024.7.5 更新ReverseNX-RT, Status Monitor
