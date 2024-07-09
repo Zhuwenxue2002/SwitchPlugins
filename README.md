@@ -29,4 +29,4 @@ https://github.com/CatcherITGF/NX-Venom
 - 2024.6.18 更新ReverseNX-RT, Status Monitor
 - 2024.6.20 sys-patch和sigpatchs正式更换为gba论坛版本
 - 2024.7.5 更新ReverseNX-RT, Status Monitor
-- 2024.7.9 增加二次开发的eos
+- 2024.7.9 修补sys-patch内核为更高版本，tesla-menu为Ultrahand
