@@ -26,3 +26,4 @@ https://github.com/CatcherITGF/NX-Venom
 - 2024.7.5 更新ReverseNX-RT, Status Monitor
 - 2024.7.9 新增sys-clk-oc，Ultrahand 
 - 2024.12.22 更新所有插件
+- 2025.3.23 更新所有插件
